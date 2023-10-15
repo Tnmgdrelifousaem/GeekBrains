@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\bin\MCD\Debug\net7.0\Num13_ThirdDigit.exe
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\bin\MCD\Debug\net7.0\Num13_ThirdDigit.deps.json
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\bin\MCD\Debug\net7.0\Num13_ThirdDigit.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\bin\MCD\Debug\net7.0\Num13_ThirdDigit.dll
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\bin\MCD\Debug\net7.0\Num13_ThirdDigit.pdb
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.dll
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\refint\Num13_ThirdDigit.dll
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.pdb
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\Num13_ThirdDigit.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW2\Num13_ThirdDigit\obj\MCD\Debug\net7.0\ref\Num13_ThirdDigit.dll

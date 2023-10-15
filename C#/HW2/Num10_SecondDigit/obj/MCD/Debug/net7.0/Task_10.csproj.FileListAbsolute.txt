@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW2\Task_10\bin\MCD\Debug\net7.0\Task_10.exe
+C:\Education\GeekBrains\C#\HW2\Task_10\bin\MCD\Debug\net7.0\Task_10.deps.json
+C:\Education\GeekBrains\C#\HW2\Task_10\bin\MCD\Debug\net7.0\Task_10.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW2\Task_10\bin\MCD\Debug\net7.0\Task_10.dll
+C:\Education\GeekBrains\C#\HW2\Task_10\bin\MCD\Debug\net7.0\Task_10.pdb
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.dll
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\refint\Task_10.dll
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.pdb
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\Task_10.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW2\Task_10\obj\MCD\Debug\net7.0\ref\Task_10.dll

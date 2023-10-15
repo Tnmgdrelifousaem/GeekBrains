@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\bin\MCD\Debug\net7.0\Num15_DayNumber.exe
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\bin\MCD\Debug\net7.0\Num15_DayNumber.deps.json
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\bin\MCD\Debug\net7.0\Num15_DayNumber.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\bin\MCD\Debug\net7.0\Num15_DayNumber.dll
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\bin\MCD\Debug\net7.0\Num15_DayNumber.pdb
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.dll
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\refint\Num15_DayNumber.dll
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.pdb
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\Num15_DayNumber.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW2\Num15_DayNumber\obj\MCD\Debug\net7.0\ref\Num15_DayNumber.dll
