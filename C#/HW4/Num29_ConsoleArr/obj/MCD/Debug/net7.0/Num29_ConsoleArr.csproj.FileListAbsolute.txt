@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\bin\MCD\Debug\net7.0\Num29_ConsoleArr.exe
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\bin\MCD\Debug\net7.0\Num29_ConsoleArr.deps.json
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\bin\MCD\Debug\net7.0\Num29_ConsoleArr.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\bin\MCD\Debug\net7.0\Num29_ConsoleArr.dll
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\bin\MCD\Debug\net7.0\Num29_ConsoleArr.pdb
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.dll
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\refint\Num29_ConsoleArr.dll
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.pdb
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\Num29_ConsoleArr.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW4\Num29_ConsoleArr\obj\MCD\Debug\net7.0\ref\Num29_ConsoleArr.dll

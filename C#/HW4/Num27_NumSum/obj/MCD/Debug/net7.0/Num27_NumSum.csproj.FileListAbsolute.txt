@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\bin\MCD\Debug\net7.0\Num27_NumSum.exe
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\bin\MCD\Debug\net7.0\Num27_NumSum.deps.json
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\bin\MCD\Debug\net7.0\Num27_NumSum.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\bin\MCD\Debug\net7.0\Num27_NumSum.dll
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\bin\MCD\Debug\net7.0\Num27_NumSum.pdb
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.dll
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\refint\Num27_NumSum.dll
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.pdb
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\Num27_NumSum.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW4\Num27_NumSum\obj\MCD\Debug\net7.0\ref\Num27_NumSum.dll

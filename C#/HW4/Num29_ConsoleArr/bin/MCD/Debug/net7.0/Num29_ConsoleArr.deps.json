@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Num29_ConsoleArr/1.0.0": {
+        "runtime": {
+          "Num29_ConsoleArr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Num29_ConsoleArr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
