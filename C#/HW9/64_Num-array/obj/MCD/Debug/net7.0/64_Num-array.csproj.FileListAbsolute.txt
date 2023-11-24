@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW9\64_Num-array\bin\MCD\Debug\net7.0\64_Num-array.exe
+C:\Education\GeekBrains\C#\HW9\64_Num-array\bin\MCD\Debug\net7.0\64_Num-array.deps.json
+C:\Education\GeekBrains\C#\HW9\64_Num-array\bin\MCD\Debug\net7.0\64_Num-array.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW9\64_Num-array\bin\MCD\Debug\net7.0\64_Num-array.dll
+C:\Education\GeekBrains\C#\HW9\64_Num-array\bin\MCD\Debug\net7.0\64_Num-array.pdb
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.dll
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\refint\64_Num-array.dll
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.pdb
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\64_Num-array.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW9\64_Num-array\obj\MCD\Debug\net7.0\ref\64_Num-array.dll

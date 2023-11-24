@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\bin\MCD\Debug\net7.0\68_Akkerman.exe
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\bin\MCD\Debug\net7.0\68_Akkerman.deps.json
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\bin\MCD\Debug\net7.0\68_Akkerman.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\bin\MCD\Debug\net7.0\68_Akkerman.dll
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\bin\MCD\Debug\net7.0\68_Akkerman.pdb
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.dll
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\refint\68_Akkerman.dll
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.pdb
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\68_Akkerman.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW9\68_Akkerman\obj\MCD\Debug\net7.0\ref\68_Akkerman.dll

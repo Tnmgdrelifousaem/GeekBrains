@@ -1,0 +1,14 @@
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\bin\MCD\Debug\net7.0\66_N-Sum.exe
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\bin\MCD\Debug\net7.0\66_N-Sum.deps.json
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\bin\MCD\Debug\net7.0\66_N-Sum.runtimeconfig.json
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\bin\MCD\Debug\net7.0\66_N-Sum.dll
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\bin\MCD\Debug\net7.0\66_N-Sum.pdb
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.AssemblyInfoInputs.cache
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.AssemblyInfo.cs
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.csproj.CoreCompileInputs.cache
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.dll
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\refint\66_N-Sum.dll
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.pdb
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\66_N-Sum.genruntimeconfig.cache
+C:\Education\GeekBrains\C#\HW9\66_N-Sum\obj\MCD\Debug\net7.0\ref\66_N-Sum.dll
